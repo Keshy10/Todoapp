@@ -1,0 +1,16 @@
+body{
+    background: url(/assets/img/pexels-monstera-6238048.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    background: #c8d1cc7c;
+    color: white;
+}
+
+.card ul a{
+    float: right;
+    margin: 0 .3rem;
+}
+    
